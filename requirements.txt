@@ -1,2 +1,2 @@
 discord.py
-a2s
+python-a2s
